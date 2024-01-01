@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NehaPatidar208&show_icons=true&theme=highcontrast" alt="NehaPatidar208" />  [![trophy](https://github-profile-trophy.vercel.app/?username=nehapatidar208)](https://github.com/ryo-ma/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=nehapatidar208)](https://github.com/ryo-ma/github-profile-trophy) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NehaPatidar208&show_icons=true&theme=highcontrast" alt="NehaPatidar208" /> 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=nehapatidar208&show_icons=true&theme=gruvbox) <img src="https://github-readme-stats.vercel.app/api?username=NehaPatidar208&show_icons=true&theme=highcontrast" alt="NehaPatidar208" />
 
