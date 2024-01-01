@@ -3,7 +3,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NehaPatidar208&show_icons=true&theme=gotham" alt="NehaPatidar208" />
 <img src="https://github-readme-stats.vercel.app/api?username=NehaPatidar208&show_icons=true&theme=gotham" alt="NehaPatidar208" />
 <img src="https://github-readme-stats.vercel.app/api/streak-stats/?username=NehaPatidar208&show_icons=true&theme=gotham" alt="NehaPatidar208" />
-![GitHub streak stats](https://streak-stats.demolab.com/?username=NehaPatidar208&show_icons=true&theme=gotham)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nehapatidar208)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nehapatidar208&show_icons=true)  
