@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nehapatidar208)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nehapatidar208&show_icons=true)  
-![GitHub streak stats](https://streak-stats.demolab.com/?user=nehapatidar208)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=nehapatidar208&show_icons=true)  
 
 ![](https://komarev.com/ghpvc/?username=NehaPatidar208&color=brightgreen)
 ![[Visitors](https://visitor-badge.glitch.me/badge?page_id=NehaPatidar208.NehaPatidar208)](https://github.com/NehaPatidar208)
