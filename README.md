@@ -8,8 +8,5 @@
 
 
 ![](https://komarev.com/ghpvc/?username=NehaPatidar208&color=brightgreen)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=NehaPatidar208.NehaPatidar208)](https://github.com/NehaPatidar208)
 
-
-
- [![trophy](https://github-profile-trophy.vercel.app/?username=nehapatidar208)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nehapatidar208)](https://github.com/ryo-ma/github-profile-trophy)
