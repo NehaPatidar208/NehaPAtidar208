@@ -1,8 +1,8 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NehaPatidar208&show_icons=true&theme=gotham" alt="NehaPatidar208" />
-<img src="https://github-readme-stats.vercel.app/api?username=NehaPatidar208&show_icons=true&theme=gotham" alt="NehaPatidar208" />
-<img src="https://streak-stats.demolab.com/?username=nehapatidar208&show_icons=true&theme=gotham" alt="NehaPatidar208" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NehaPatidar208&show_icons=true&theme=gotham" alt="NehaPatidar208" />  <img src="https://github-readme-stats.vercel.app/api?username=NehaPatidar208&show_icons=true&theme=gotham" alt="NehaPatidar208" />
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=nehapatidar208&show_icons=true) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nehapatidar208)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nehapatidar208&show_icons=true)  
