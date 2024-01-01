@@ -4,7 +4,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NehaPatidar208&show_icons=true&theme=highcontrast" alt="NehaPatidar208" /> 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=nehapatidar208&show_icons=true&theme=gruvbox) <img src="https://github-readme-stats.vercel.app/api?username=NehaPatidar208&show_icons=true&theme=highcontrast" alt="NehaPatidar208" />
+![GitHub streak stats](https://streak-stats.demolab.com/?user=nehapatidar208&show_icons=true&theme=gruvbox)<img src="https://github-readme-stats.vercel.app/api?username=NehaPatidar208&show_icons=true&theme=highcontrast" alt="NehaPatidar208" />
 
 
 ![](https://komarev.com/ghpvc/?username=NehaPatidar208&color=brightgreen)
