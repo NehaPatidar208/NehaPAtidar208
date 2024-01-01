@@ -3,7 +3,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=NehaPatidar208&show_icons=true&theme=highcontrast" alt="NehaPatidar208" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NehaPatidar208&show_icons=true&theme=highcontrast" alt="NehaPatidar208" /> 
 
-<img src="https://github-readme-streak-stats.herokuapp/?username=NehaPatidar208&show_icons=true&theme=highcontrast" alt="NehaPatidar208" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?username=NehaPatidar208&show_icons=true&theme=highcontrast" alt="NehaPatidar208" /> 
   
   ![GitHub streak stats](https://streak-stats.demolab.com/?user=nehapatidar208&show_icons=true&theme=gruvbox) 
 
